@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "App Development",
+    "users": [2, 3, 5]
+  },
+  {
+    "id": 2,
+    "name": "UI/UX Designs",
+    "users": [2]
+  },
+  {
+    "id": 3,
+    "name": "iSpring ABC Team",
+    "users": []
+  },
+  {
+    "id": 4,
+    "name": "Marketing",
+    "users": [1, 4]
+  },
+  {
+    "id": 5,
+    "name": "Accounts and Sales Team",
+    "users": []
+  },
+  {
+    "id": 6,
+    "name": "Support Team",
+    "users": []
+  }
+]

@@ -1,0 +1,203 @@
+[
+    {
+      "id": 1,
+      "fromUser": 4,
+      "toUser": 5,
+      "message": "Lorem Ipsum 1 (From Michael) is simply dummy text of the printing and typesetting industry.",
+      "image": null,
+      "timestamp": 1707719080
+    },
+    {
+      "id": 2,
+      "fromUser": 1,
+      "toUser": 5,
+      "message": "Lorem Ipsum 2 (To Jonathan) is simply dummy text of the printing and typesetting industry.",
+      "image": "https://picsum.photos/id/5/500/500",
+      "timestamp": 1707719080000
+    },
+    {
+      "id": 3,
+      "fromUser": 3,
+      "toUser": 5,
+      "message": "Lorem Ipsum 3 (From Kevin) is simply dummy text of the printing and typesetting industry.",
+      "image": null,
+      "timestamp": 1707719080000
+    },
+    {
+      "id": 4,
+      "fromUser": 5,
+      "toUser": 1,
+      "message": "Lorem Ipsum 4 (From Jonathan) is simply dummy text of the printing and typesetting industry.",
+      "image": null,
+      "timestamp": 1707719260000
+    },
+    {
+      "id": 5,
+      "fromUser": 5,
+      "toUser": 3,
+      "message": "Lorem Ipsum 5 (To Kevin) is simply dummy text of the printing and typesetting industry.",
+      "image": "https://picsum.photos/id/8/500/500",
+      "timestamp": 1707719260000
+    },
+    {
+      "id": 6,
+      "fromUser": 5,
+      "toUser": 2,
+      "message": "Lorem Ipsum 6 (To Elizabeth) is simply dummy text of the printing and typesetting industry.",
+      "image": null,
+      "timestamp": 1707719080000
+    },
+    {
+      "id": 7,
+      "fromUser": 1,
+      "toUser": 5,
+      "message": "Lorem Ipsum 7 (To Jonathan) is simply dummy text of the printing and typesetting industry.",
+      "image": "https://picsum.photos/id/9/500/500",
+      "timestamp": 1707719280000
+    },
+    {
+      "id": 8,
+      "fromUser": 1,
+      "toUser": 1,
+      "message": "test",
+      "image": null,
+      "timestamp": 1745557284054
+    },
+    {
+      "id": 9,
+      "fromUser": 1,
+      "toUser": 1,
+      "message": "test",
+      "image": null,
+      "timestamp": 1745557316978
+    },
+    {
+      "id": 10,
+      "fromUser": 1,
+      "toUser": 1,
+      "message": "test",
+      "image": null,
+      "timestamp": 1745558375681
+    },
+    {
+      "id": 11,
+      "fromUser": 1,
+      "toUser": 1,
+      "message": "testing",
+      "image": null,
+      "timestamp": 1745558392262
+    },
+    {
+      "id": 12,
+      "fromUser": 5,
+      "toUser": 1,
+      "message": "1",
+      "image": null,
+      "timestamp": 1745560637349
+    },
+    {
+      "id": 13,
+      "fromUser": 5,
+      "toUser": 1,
+      "message": "2",
+      "image": null,
+      "timestamp": 1745560639442
+    },
+    {
+      "id": 14,
+      "fromUser": 5,
+      "toUser": 1,
+      "message": "1",
+      "image": null,
+      "timestamp": 1745560761760
+    },
+    {
+      "id": 15,
+      "fromUser": 5,
+      "toUser": 2,
+      "message": "11",
+      "image": null,
+      "timestamp": 1745560809591
+    },
+    {
+      "id": 16,
+      "fromUser": 1,
+      "toUser": 2,
+      "message": "1",
+      "image": null,
+      "timestamp": 1745561442466
+    },
+    {
+      "id": 17,
+      "fromUser": 1,
+      "toUser": 4,
+      "message": "1",
+      "image": null,
+      "timestamp": 1745572160511
+    },
+    {
+      "id": 18,
+      "fromUser": 1,
+      "toUser": 3,
+      "message": "1",
+      "image": null,
+      "timestamp": 1745572166517
+    },
+    {
+      "id": 19,
+      "fromUser": 1,
+      "toUser": 5,
+      "message": "1",
+      "image": null,
+      "timestamp": 1745572174089
+    },
+    {
+      "id": 20,
+      "fromUser": 2,
+      "toUser": 1,
+      "message": "2",
+      "image": null,
+      "timestamp": 1745575614558
+    },
+    {
+      "id": 21,
+      "fromUser": 2,
+      "toUser": 5,
+      "message": "2",
+      "image": null,
+      "timestamp": 1745575624881
+    },
+    {
+      "id": 22,
+      "fromUser": 2,
+      "toUser": 1,
+      "message": "2",
+      "image": null,
+      "timestamp": 1745577176987
+    },
+    {
+      "id": 23,
+      "fromUser": 2,
+      "toUser": 1,
+      "message": "1",
+      "image": null,
+      "timestamp": 1745577181136
+    },
+    {
+      "id": 24,
+      "fromUser": 2,
+      "toUser": 3,
+      "message": "1",
+      "image": null,
+      "timestamp": 1745577184037
+    },
+    {
+      "id": 25,
+      "fromUser": 5,
+      "toUser": 5,
+      "message": "asd",
+      "image": null,
+      "timestamp": 1745668751797
+    }
+  ]
+  
