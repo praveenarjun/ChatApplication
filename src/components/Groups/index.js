@@ -23,7 +23,7 @@ import {
 const colors = ['#A66EFC', '#F4B740', '#FF6B6B', '#20C997', '#FFA94D', '#6C5CE7', '#FF9F43'];
 
 const Groups = ({ onSelectGroup }) => {
-  const [groups, setGroups] = useState([]);
+  const [groups, setGroups] = useState(groupData);
   const [selectedGroupId, setSelectedGroupId] = useState(null);
 
   useEffect(() => {

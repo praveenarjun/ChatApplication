@@ -40,9 +40,15 @@ const Sidebar = () => {
         <IconButton>
           <FontAwesomeIcon icon={faCalendar} />
         </IconButton>
-        <IconButton>
-          <FontAwesomeIcon icon={faComments} />
-        </IconButton>
+        <IconGroup>
+          <IconButton active>
+            <FontAwesomeIcon icon={faHome} />
+          </IconButton>
+          <IconButton>
+            <FontAwesomeIcon icon={faComments} />
+          </IconButton>
+          {/* Add more icons as needed */}
+        </IconGroup>
       </IconGroup>
       <IconGroup>
         <IconButton>
